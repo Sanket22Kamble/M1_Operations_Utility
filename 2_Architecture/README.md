@@ -3,10 +3,12 @@
 
 ## Design
 * structure
-* behavioural
+## Behavioural
 ##  Flowchart
-![Flowchart](https://user-images.githubusercontent.com/98873866/153022591-ce4d8486-b5a3-43e5-a0df-345e818ab2bd.png)
+![Flowchart_cal](https://user-images.githubusercontent.com/98873866/153035869-d3c15896-8f5e-4d6b-aca7-e378f5a1d869.png)
+
+
 
       
 ## Case diagram
-![132314320-aa51bc80-b064-426d-b426-00aa928d859c](https://user-images.githubusercontent.com/98873866/153023971-32c97909-77ed-4f4e-9364-db722acf671a.png)
+![case_dig](https://user-images.githubusercontent.com/98873866/153040463-56325565-d7b3-4418-8dff-db08f4899b89.jpg)
