@@ -1,7 +1,6 @@
 ## Description
  # Simple Basic Calculator
- * 
-    * Introduction:-
+ *  Introduction:-
     Simple Calculator helps users to calculate simple calculations with great speed and accessibility. 
     Simple calculator is a project to allow users to calculate basic four operations in mathematics ,they are addition, subtraction, multiplication, division but in this Project which I'm Implementing ,also included three additional operations such as Factorial, Power ,modulas .However, the input has to be in the form "number1 operator1 number2 "(i.e 2+4).
     
