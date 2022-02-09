@@ -49,7 +49,7 @@
  ## Who
   * Students who want to solve mathematics related problems for their academic work.
   * Datascience workers working on machine learning and deep learning applications which majorly involve matrice Software engineer.
-  * Researchers and mathematicians
+  * Researchers and mathematicians.
 
 ## What
   * Calculate the sum, differemce, product of two matrices and also the determinnt, transpose and inverse of a single matrix.
