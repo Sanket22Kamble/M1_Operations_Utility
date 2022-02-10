@@ -9,17 +9,7 @@
  * 
  */
 
-#include <stdio.h>  
-#include <math.h>  
-#include <stdlib.h>  
-      
-// function declarations   
-int addition();  
-int subtract();  
-int multiply();  
-int divide();  
-int sq(); 
-void exit();  
+
   
 int main()  
 {  
