@@ -10,7 +10,7 @@
 ## Requirements
 
 ## High Level Requirements:
-* User should able to viewe operation list.
+* User should able to view operation list.
 * User should able to select the operation.
 * The system sould able perform the given operation	 
 * The system should provide correct result
