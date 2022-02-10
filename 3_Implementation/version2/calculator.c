@@ -29,7 +29,7 @@ int main()
     {  
         // displays the multiple operations of the C Calculator  
         printf (" Select an operation to perform the calculation in C Calculator: ");  
-        printf (" \n 1 Add  \t \t 2 Subtract \n 3 Multiply \t \t 4 Division \n 5 Square \t \t 6 Exit \n \n Please, Make a choice ");      
+        printf ("\n 1 Add \t \t 2 Subtract \n 3 Multiply \t \t 4 Division \n 5 Square \t \t 6 Exit \n \n Please, Make a choice ");      
           
         scanf ("%d", &option); // accepts a numeric input to choose the operation  
       
@@ -73,8 +73,6 @@ int main()
 }  
   
   
-  
-// function definition  
 int addition()  
 {  
     int i, sum = 0, num, f_num; // declare a local variable   
