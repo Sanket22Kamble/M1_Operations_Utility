@@ -8,4 +8,4 @@ Run : Build
 	./Calculator.out
 
 Clean:
-	rm -rf *.o *.out *.i *.s
+	rm -rf *.o *.out *.i 

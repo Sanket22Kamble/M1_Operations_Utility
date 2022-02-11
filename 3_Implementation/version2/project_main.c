@@ -1,3 +1,14 @@
+/**
+ * @file calculator.c
+ * @author Sanket Kamble (guddukamble22032000.com)
+ * @brief Mathematical Operations of calculator
+ * @version 0.1
+ * @date 2022-02-11
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+
 #include "calculator.h"
 
 int main()  
