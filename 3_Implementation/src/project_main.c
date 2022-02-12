@@ -1,6 +1,6 @@
 /**
  * @file project_main.c
- * @author Sanket Kamble (you@domain.com)
+ * @author Sanket Kamble (guddukamble22032000@domain.com)
  * @brief Mathematical operations of calculator
  * @version 0.1
  * @date 2022-02-13

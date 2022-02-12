@@ -1,6 +1,6 @@
 /**
  * @file cal.c
- * @author Sanket Kamble (you@domain.com)
+ * @author Sanket Kamble (guddukamble22032000@gmail.com)
  * @brief Mathematical operations of calculator
  * @version 0.1
  * @date 2022-02-13
