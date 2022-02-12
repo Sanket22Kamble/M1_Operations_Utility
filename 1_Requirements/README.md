@@ -10,21 +10,24 @@
 ## Requirements
 
 ## High Level Requirements:
-* User should able to viewe operation list.
-* User should able to select the operation.
-* The system sould able perform the given operation	 
-* The system should provide correct result
+|ID	 | Description                                            |	Category  |	Status      |
+|:--:|:------------------------------------------------------:|:---------:|:-----------:|
+|HR01|	User shall be able to specify their operation choice.  | Technical |	IMPLEMENTED |
+|HR02| User should able to select the operation.              | Technical | IMPLEMENTED |
+|HR03|	User shall be able to add the numbers	                 | Technical |	IMPLEMENTED |
+|HR03|	User shall be able to subtract the numbers             | Technical |	IMPLEMENTED |
+|HR04|	User shall be able to multiply the number              | Technical |	IMPLEMENTED |
+|HR05|	User shall be able to find division                    | Technical |	IMPLEMENTED |
+|HR06| User shall be able square and modulus.                 | Technical |	IMPLEMENTED |
 
  
 
 ## Low Level Requirements
-* If the calculations is impossible the calculator has to display information helping
-  the user to resolve the erroneous situation.
-* On encountering a division by 0 the display should read "Cannot divide by 0" and typing the
-  key “C” should reset the calculator.
-* On calculating the square root value of a negative operand the display should read "Wrong
-  operand".
-
+| ID |    Description                                                                                                                      |Category  | status
+|:--:|:-----------------------------------------------------------------------------------------------------------------------------------:|:--------:|:-----------:|
+|LR01|     If the calculations is impossible the calculator has to display information helping the user to resolve the erroneous situation.|Technical |IMPLEMENTED
+|LRO2|     On encountering a division by 0 the display should read "Cannot divide by 0" and typing the key “C” should reset the calculator.|Technical |IMPLEMENTED                                                                            
+|LR03|    On calculating the square root value of a negative operand the display should read "Wrong operand"                               |Technical |IMPLEMENTED
 
 
 ## SWOT

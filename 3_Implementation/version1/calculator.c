@@ -9,6 +9,10 @@
  * 
  */
 
+<<<<<<< HEAD
+=======
+  
+>>>>>>> 71a173dda8b6e164d52eba298aa1bb4c28cd4ab2
   
 // function definition  
 int addition()  

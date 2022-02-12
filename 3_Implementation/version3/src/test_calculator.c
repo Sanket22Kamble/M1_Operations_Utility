@@ -12,11 +12,9 @@ void tearDown()
 
 void test_divide()
 {
-    int divide_n1=4;
-    int divide_n2=2;
-    int actual_result=divide_n1/divide_n2;
-     
-    TEST_ASSERT_EQUAL(success, test_divide(divide_n1,divide_n2, &actual_result)); 
+    TEST_ASSERT_EQUAL(2,divide(4, 2));
+    TEST_ASSERT_EQUAL(3,divide(6, 2));
+    
 }
 
 int test_main()
