@@ -18,6 +18,16 @@
 * [Codiga](https://app.codiga.io/project/30990/dashboard)
 * [Codacy](https://www.codacy.com/)
 
+|   Folder Name        |      Description
+|:--------------------:|:--------------------------
+| 0_Certificates       | All the required certificates
+| 1_Requirements       | Detail documents about high and low level requirements
+| 2_Architecture       | Structural and Flow  diagram of project
+| 3_Implementation     | Detail coding
+| 4_TestPlanAndOutput  | Include tables about test case
+| 5_Report             | Detail about project
+| 6_ImageAndVideo      | Image of output
+| 7_Other              | References
 ## Description
  # Simple Calculator
  ##  Introduction:-
