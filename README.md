@@ -8,7 +8,11 @@
 |:-------------------------------------------------------------------------------------------------------------:|:---------------------:|:------------------------- 
 |![image](https://user-images.githubusercontent.com/98873866/153565339-f2e37c9d-bbc5-4ad5-9308-b0fb93b94ca3.png)|![image](https://user-images.githubusercontent.com/98873866/153565420-c4bf3256-bbb6-42f3-a72f-eef13c76c91a.png)                                               |[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f24dc4efcdb341069a2dfb3ba0d904e2)](https://www.codacy.com/gh/Sanket22Kamble/M1_Operations_Utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sanket22Kamble/M1_Operations_Utility&amp;utm_campaign=Badge_Grade)
 |[Codiga code quality](https://api.codiga.io/project/30990/score/svg)                                           |[Codiga grade](https://api.codiga.io/project/30990/status/svg)
-
+   
+ |   Codeac    
+ |---------------------
+ |[![Codeac](https://static.codeac.io/badges/2-456089238.svg "Codeac")](https://app.codeac.io/github/Sanket22Kamble/M1_Operations_Utility)
+ 
 # Tools Used
 
 * [Codiga](https://app.codiga.io/project/30990/dashboard)
