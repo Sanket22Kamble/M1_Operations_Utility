@@ -1,2 +1,0 @@
-## References 
-* Add all references

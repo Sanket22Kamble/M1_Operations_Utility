@@ -1,26 +1,14 @@
-/**
- * @file calculator.c
- * @author Sanket Kamble (guddukamble22032000.com)
- * @brief Mathematical Operations of calculator
- * @version 0.1
- * @date 2022-02-11
- * 
- * @copyright Copyright (c) 2022
- * 
- */
-
-
-#include "calculator.h"
-
+#include "cal.h"
+extern void test_main();
 int main()  
 {  
-    // declaration a local variable op;  
+   #if 0 
     int option;  
     do  
     {  
         // displays the multiple operations of the C Calculator  
         printf (" Select an operation to perform the calculation in C Calculator: ");  
-        printf (" \n 1 Add  \t \t 2 Subtract \n 3 Multiply \t \t 4 Divide \n 5 Square \t \t 6 Exit \n \n Please, Make a choice ");      
+        printf (" \n 1 Addition  \t \t 2 Subtraction \n 3 Multiplication \t 4 Division \n 5 Square \t \t 6 Cube \n 7 Exit \n \n Please, Make a choice ");      
           
         scanf ("%d", &option); // accepts a numeric input to choose the operation  
       
@@ -46,9 +34,13 @@ int main()
               
         case 5:  
             sq(); // It call the sq() function  to get the square of given numbers  
-            break; // break the function   
+            break; // break the function  
               
         case 6:  
+            cube(); /* It call the sqrt1() function  to get the cube of given numbers */  
+            break; // break the function  
+              
+        case 7:  
             exit(0); // It call the exit() function  to exit from the program  
             break; // break the function  
               
@@ -57,9 +49,10 @@ int main()
             break;                        
     }  
     printf (" \n \n **************** \n ");  
-    } while (option != 6);  
-      
+    } while (option != 7);  
+     #else
+     test_main();
+     #endif 
   
-    return 0;
-
-}  
+    return 0;        
+}
