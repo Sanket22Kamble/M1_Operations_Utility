@@ -1,5 +1,5 @@
 # M1_Operations_Utility
-
+# Badges
 | Build Linux                                                                                                             | Cppcheck
 |:-----------------------------------------------------------------------------------------------------------------------:|:---------------------
 | [![Build-linux](https://github.com/Sanket22Kamble/M1_Operations_Utility/actions/workflows/Build-linux.yml/badge.svg)](https://github.com/Sanket22Kamble/M1_Operations_Utility/actions/workflows/Build-linux.yml)                                                                                                                        |[![Cppcheck](https://github.com/Sanket22Kamble/M1_Operations_Utility/actions/workflows/static_check.yml/badge.svg)](https://github.com/Sanket22Kamble/M1_Operations_Utility/actions/workflows/static_check.yml)
