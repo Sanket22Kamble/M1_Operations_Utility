@@ -1,3 +1,14 @@
+/**
+ * @file cal.c
+ * @author Sanket Kamble (you@domain.com)
+ * @brief Mathematical operations of calculator
+ * @version 0.1
+ * @date 2022-02-13
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+
 #include "cal.h"
 // function declarations   
 int addition();  
@@ -7,11 +18,9 @@ int divide();
 int sq();  
 int cube();  
 void exit();  
-  
+   
+// function definition 
 
-  
-  
-// function definition  
 int addition()  
 {  
     int i, sum = 0, num, f_num; // declare a local variable   

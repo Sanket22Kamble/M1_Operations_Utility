@@ -1,3 +1,14 @@
+/**
+ * @file project_main.c
+ * @author Sanket Kamble (you@domain.com)
+ * @brief Mathematical operations of calculator
+ * @version 0.1
+ * @date 2022-02-13
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+
 #include "cal.h"
 extern void test_main();
 int main()  
