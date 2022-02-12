@@ -10,7 +10,6 @@
  */
 
 
-  
 int main()  
 {  
     // declaration a local variable op;  
