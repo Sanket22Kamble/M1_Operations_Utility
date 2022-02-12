@@ -20,7 +20,7 @@
 
 # Folder Description
 |   Folder Name        |      Description
-|:--------------------:|:--------------------------
+|:-------------------- |:--------------------------
 | 0_Certificates       | All the required certificates
 | 1_Requirements       | Detail documents about high and low level requirements
 | 2_Architecture       | Structural and Flow  diagram of project
