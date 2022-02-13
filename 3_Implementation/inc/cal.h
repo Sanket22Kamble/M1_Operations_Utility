@@ -10,8 +10,8 @@
  */
 
 //Header Gaurd
-#ifndef CAL_H_
-#define CAL_H_
+#ifndef cal_h_
+#define cal_h_
 
 //Include files
 #include <stdio.h>    
