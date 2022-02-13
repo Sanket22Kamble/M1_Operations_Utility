@@ -4,7 +4,7 @@ PROJ_NAME=Calculator
 SRC=src/project_main.c src/cal.c test/test_calculator.c unity/unity.c
 
 
-#To check if the OS is Windows or Linux and set the executable file extension and delete command accordingly
+#To check if the OS is Windows or Linux and set the executable file extension and delete command accordingly.
 ifdef OS
 	RM = del /q
 	FixPath = $(subst /,\,$1)
