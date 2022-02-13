@@ -21,7 +21,7 @@ Build : $(SRC)
 	gcc $(SRC) -Iinc -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
 
 Run : Build
-	./Calculator.out
+	./$(call FixPath,$(PROJ_NAME).$(EXEC))
 
 Clean:
 	$(RM) $(call FixPath,*.out)
