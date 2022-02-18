@@ -89,7 +89,7 @@ int sq()
     printf (" \n The Square of %d is: %d", n1, res);  
 }  
   
-// use sqrt1() function to get the cube of the given number   
+// use cube() function to get the cube of the given number   
 int cube()  
 {  
      
