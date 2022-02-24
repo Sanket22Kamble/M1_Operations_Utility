@@ -32,7 +32,7 @@ int addition()
         scanf(" %d", &f_num);  
         sum = sum + f_num;  
     }  
-    printf (" Total Sum of the numbers = %d", sum);  
+    printf (" Total Sum of the numbers = %d\n", sum);  
     return 0;  
 }  
   
@@ -45,7 +45,7 @@ int subtract()
     printf (" The second number is: ");  
     scanf ("  %d", &n2);  
     res = n1 - n2;    
-    printf (" The subtraction of %d - %d is: %d", n1, n2, res);  
+    printf (" The subtraction of %d - %d is: %d\n", n1, n2, res);  
 }  
   
 // use multiply() function to multiply two numbers  
@@ -57,7 +57,7 @@ int multiply()
     printf (" The second number is: ");  
     scanf ("  %d", &n2);  
     res = n1 * n2;    
-    printf (" The multiply of %d * %d is: %d", n1, n2, res);  
+    printf (" The multiply of %d * %d is: %d\n", n1, n2, res);  
 }  
   
 // use divide() function to divide two numbers  
@@ -75,7 +75,7 @@ int divide()
         scanf ("%d", &n2);        
     }  
     res = n1 / n2;    
-    printf (" \n The division of %d / %d is: %d", n1, n2, res);  
+    printf (" \n The division of %d / %d is: %d\n", n1, n2, res);  
 }  
   
 // use sq() function to get the square of the given number  
@@ -86,7 +86,7 @@ int sq()
     scanf ("  %d", &n1);  
       
     res = n1 * n1;    
-    printf (" \n The Square of %d is: %d", n1, res);  
+    printf (" \n The Square of %d is: %d\n", n1, res);  
 }  
   
 // use cube() function to get the cube of the given number   
@@ -98,5 +98,5 @@ int cube()
     scanf ("  %d", &n1);  
   
     res = n1*n1*n1;   
-    printf (" \n The cube of %d is: %d", n1, res);  
+    printf (" \n The cube of %d is: %d\n", n1, res);  
 }

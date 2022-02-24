@@ -3,29 +3,22 @@
 
 void setUp()
 {
-
 }
 
 void tearDown()
 {
-
 }
 
-void test_divide(void)
+void test_addition()
 {
-    int n1=10;
-    int n2=20;
-    TEST_ASSERT_EQUAL(0.5, divide(n1,n2));
-    TEST_ASSERT_EQUAL(2, divide(n2,n1));
-    
+    int n1;
+    int n2;
+    int actual_result;
+    TEST_ASSERT_EQUAL(addition(n1,n2),actual_result);
 }
-
 int test_main()
 {
-    /* Initiate the Unity Test Framework */
     UNITY_BEGIN();
-
-    RUN_TEST(test_divide);
-
-      return UNITY_END();
+     RUN_TEST(test_addition);
+     return UNITY_END();
 }
