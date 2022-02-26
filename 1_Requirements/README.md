@@ -42,21 +42,21 @@
 
 
 ## 5W's and 1H's
- ## Who
+ ## Who :
   * Students who want to solve mathematics related problems for their academic work.
   * Datascience workers working on machine learning and deep learning applications which majorly involve matrice Software engineer.
   * Researchers and mathematicians.
 
-## What
+## What :
   * Calculate the sum, differemce, product of two matrices and also the determinant, transpose and inverse of a single matrix.
 
-## When
+## When :
   * Students facing a difficulty in solving a matrix related problem, can use this program to conform their outputs.
   * Researchers can use it for getting a quick calculation output.
   * Comes to a great use when calculating for matrices of huge order.
 
-## Where:
+## Where :
  * Students, employees and researchers all over the world.
 
-## How:
+## How :
  * This program can be executed in a system which has Linux or Windows operating system.
