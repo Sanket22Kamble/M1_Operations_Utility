@@ -48,10 +48,10 @@
   * Researchers and mathematicians.
 
 ## What :
-  * Calculate the sum, differemce, product of two matrices and also the determinant, transpose and inverse of a single matrix.
+  * Calculate the sum, difference, product of two matrices and also the determinant, transpose and inverse of a single matrix.
 
 ## When :
-  * Students facing a difficulty in solving a matrix related problem, can use this program to conform their outputs.
+  * Students facing a difficulty in solving a matrix related problem, can use this program to confirm their outputs.
   * Researchers can use it for getting a quick calculation output.
   * Comes to a great use when calculating for matrices of huge order.
 
