@@ -30,7 +30,7 @@
 
 * WEAKNESSES
 
-  Do not inlude all the operations rather have onlty addition,subtraction multiplication, division ,modulas ,power and factorial.
+  Do not inlude all the operations rather have only addition,subtraction multiplication, division ,modulas ,power and factorial.
 
 * OPPORTUNITIES
 
